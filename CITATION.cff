@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "引用时请注明来源：OpenGEO 项目。If you use this work, please cite it as below."
+title: "OpenGEO: 中文 AI 搜索观测记录"
+authors:
+  - family-names: He
+    given-names: Yu
+    alias: 何瑜
+url: "https://opengeo.page/"
+repository-code: "https://github.com/315fang/opengeo"
+license: CC-BY-4.0
+keywords:
+  - AI search
+  - generative engine optimization
+  - GEO
+  - query rewriting
